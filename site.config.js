@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `Jaehyun's Resume`,
+      href: "https://isthereanycode.github.io/",
     },
   ],
   // blog setting (required)
